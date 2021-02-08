@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/yinghua.png">
-  <HelloWorld msg="Welcome to 樱花飞舞 !"/>
+  <HelloWorld msg="Welcometo 樱花飞舞 !"/>
 </template>
 
 <script>
